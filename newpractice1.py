@@ -1,4 +1,4 @@
-def git2():
-    print("Fairooz Tabassum")
+def git3():
+    print("Good Bye")
 
-git2()  
+git3()  
